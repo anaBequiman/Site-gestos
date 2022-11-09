@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+    color: white;
+}
+#camera,
+#result {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#titulo{
+    background-color: white;
+    border-color: black;
+    border-radius: 15px;
+    color: wheat;
+    width: 525px;
+    height: 120px;
+    padding-top: 1px;
+    margin-top: 10px;
+}
+button{
+    background-color: white;
+    color: wheat;
+    border-color: white;
+}
